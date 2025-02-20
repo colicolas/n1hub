@@ -6,6 +6,10 @@
   font-family: 'Noto Serif JP', serif;
 }
 
+.latofont {
+  font-family: 'Protest Strike', sans-serif;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
