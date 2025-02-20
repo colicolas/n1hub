@@ -1,11 +1,9 @@
 import Link from "next/link";
-import Navbar from "@/components/Navbar";
 
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col w-full bg-black text-gray-200 items-center p-8">
-      <Navbar />
-      <div className="mt-28 mb-5 text-center">
+      <div className="mt-20 mb-5 text-center">
         <h1 className="text-8xl mt-30 w-full latofont text-white">NarrowOne<br></br> Hub🏹</h1>
         <p className="text-lg text-gray-400 mt-3">
           A collection of the most important links and resources for NarrowOne.
