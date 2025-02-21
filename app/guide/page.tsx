@@ -33,7 +33,7 @@ export default function GuidePage() {
         </ul>
 
         <p className="text-lg text-gray-400 mt-4">
-          The game also features many melee weapons. Switch to melee mode with the keybind 'Q'.
+          The game also features many melee weapons. Switch to melee mode with the keybind &apos;Q&apos;.
         </p>
       </div>
 
