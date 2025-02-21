@@ -5,7 +5,7 @@ export default function PelicanPartyPage() {
     <main className="min-h-screen w-full bg-black text-gray-200 px-8 flex flex-col items-center">
       {/* Title */}
       <div className="text-center mt-16">
-        <h1 className="text-7xl font-bold text-white tracking-tight">Pelican Party</h1>
+        <h1 className="text-7xl text-white latofont tracking-tight">Pelican Party</h1>
         <p className="text-lg text-gray-400 mt-3 max-w-2xl">
           Pelican Party Studios is an independent game development team founded by 
           Jesper van den Ende and Jurgen Hoogeboom. They specialize in accessible, 
