@@ -11,7 +11,7 @@ export default function AboutPage() {
       {/* Content */}
       <div className="mt-8 max-w-2xl text-center">
         <p className="text-lg text-gray-400">
-          Hi, I'm Demi! I wanted to turn the original NarrowOne Hub document into a web app for fun 
+          Hi, I&apos;m colicola! I wanted to turn the original NarrowOne Hub document into a web app for fun 
           because I was bored. You can reach me on Discord; my username is <span className="font-bold">colicolas</span>.
         </p>
         <p className="text-lg text-gray-400 mt-4">
