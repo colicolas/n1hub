@@ -9,7 +9,7 @@ export default function GuidePage() {
         <p className="text-lg text-gray-400 mt-3 max-w-2xl">
           NarrowOne is a fast-paced <span className="font-bold">first-person shooter</span> where players use the <span className="font-bold">bow and arrow</span>. 
           Developed by <span className="font-bold">Jesper van den Ende & Jurgen Hoogeboom</span> of 
-          <Link href="https://pelicanparty.co" target="_blank" className="text-blue-400 hover:underline">
+          <Link href="/pelicanparty" className="text-blue-400 hover:underline">
             {" "}Pelican Party Studios
           </Link>, the game combines archery-based combat with team-based objectives.
         </p>
@@ -31,6 +31,10 @@ export default function GuidePage() {
           <li><span className="font-bold">Bow 5 (Support):</span> Useful for team-based play.</li>
           <li><span className="font-bold">Bow 6 (Defender):</span> Tanky with defensive capabilities.</li>
         </ul>
+
+        <p className="text-lg text-gray-400 mt-4">
+          The game also features many melee weapons. Switch to melee mode with the keybind 'Q'.
+        </p>
       </div>
 
       {/* How to Play */}
@@ -97,6 +101,28 @@ export default function GuidePage() {
         </ul>
         <p className="text-lg text-gray-400 mt-4">
           For a full list of available items, check out the <span className="font-bold">Shop</span> in-game.
+        </p>
+      </div>
+
+      {/* Keybinds Section */}
+      <div className="mt-12 w-full max-w-3xl">
+        <h2 className="text-3xl font-semibold text-white border-b border-gray-700 pb-2">
+          Keybinds
+        </h2>
+
+        {/* PC Keybinds */}
+        <h3 className="text-2xl text-white mt-6">PC Users</h3>
+        <ul className="list-disc text-gray-400 ml-6 mt-4 space-y-2">
+          <li><span className="font-bold">Q:</span> Switch weapon type (Bow ↔ Melee)</li>
+          <li><span className="font-bold">WASD:</span> Movement keys (W - Forward, A - Left, S - Backward, D - Right)</li>
+          <li><span className="font-bold">Tab:</span> View all players & their scores</li>
+          <li><span className="font-bold">Esc:</span> Unlock cursor</li>
+        </ul>
+
+        {/* Mobile Users */}
+        <h3 className="text-2xl text-white mt-6">Mobile Users</h3>
+        <p className="text-lg text-gray-400 mt-2">
+          Controls are icon-based and displayed on-screen.
         </p>
       </div>
 
