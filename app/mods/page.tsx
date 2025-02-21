@@ -9,7 +9,7 @@ export default function ModsPage() {
         <p className="text-lg text-gray-400 mt-3 max-w-2xl">
           Mods allow players to customize their NarrowOne experience, providing changes to 
           visuals, UI elements, and gameplay mechanics. However, modifying the game comes 
-          with responsibility—<span className="text-fuchsia-200">hacks, cheats, or unfair advantages violate the game's 
+          with responsibility—<span className="text-fuchsia-200">hacks, cheats, or unfair advantages violate the game&apos;s 
           integrity and <span className="font-bold">will result in bans</span></span>. Always use mods ethically and ensure they 
           respect the intended game experience.
         </p>
@@ -19,7 +19,7 @@ export default function ModsPage() {
       <div className="mt-12 w-full max-w-3xl space-y-6">
         <ModEntry name="CN Mod" link="https://github.com/N1CNmod/narrowone-mod" />
         <ModEntry name="T7 Mod" link="https://github.com/Talent7-source/GameMods.git" />
-        <ModEntry name="Viola's Mod" link="https://github.com/TheGirlThatLived/NarrowOne_Customizations" />
+        <ModEntry name="Viola&apos;s Mod" link="https://github.com/TheGirlThatLived/NarrowOne_Customizations" />
       </div>
     </main>
   );

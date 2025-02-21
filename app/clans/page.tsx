@@ -54,7 +54,7 @@ export default function ClansPage() {
         {/* Talent7 (T7) */}
         <ClanSection
           name="Talent7 (T7)"
-          description="T7 hereby officially recognizes and places significant value on the mastery of seven essential talents in Narrow One: Accuracy, Speed, Parkour, Bow Versatility, PvP IQ, Sportsmanship, and Adaptability. Our conviction is that a player attains the status of a 'pro' by demonstrating proficiency in all seven talents. Established by KAIJIN, T7 is a clan dedicated to cultivating a community where members can refine their skills and excel in the various aspects of Narrow One. We remain steadfast in our commitment to promoting excellence, sportsmanship, and camaraderie within our clan.A clan dedicated to mastering seven essential talents: Accuracy, Speed, Parkour, Bow Versatility, PvP IQ, Sportsmanship, and Adaptability. Founded by KAIJIN, T7 aims to foster excellence in NarrowOne."
+          description="T7 hereby officially recognizes and places significant value on the mastery of seven essential talents in Narrow One: Accuracy, Speed, Parkour, Bow Versatility, PvP IQ, Sportsmanship, and Adaptability. Our conviction is that a player attains the status of a 'pro' by demonstrating proficiency in all seven talents. Established by KAIJIN, T7 is a clan dedicated to cultivating a community where members can refine their skills and excel in the various aspects of Narrow One. We remain steadfast in our commitment to promoting excellence, sportsmanship, and camaraderie within our clan."
           links={[
             { title: "Discord", url: "https://discord.gg/AWfAQywMYW" }
           ]}

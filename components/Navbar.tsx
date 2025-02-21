@@ -4,12 +4,12 @@ export default function Navbar() {
   return (
     <nav className="w-full bg-black text-gray-200 py-4 px-6 flex items-center justify-between border-b border-gray-800">
       {/* Logo / Title */}
-      <Link href="/" className="text-xl font-semibold text-white tracking-tight">
+      <Link href="/" className="text-xl latofont text-white tracking-tight">
         NarrowOne Hub
       </Link>
 
       {/* Nav Links */}
-      <div className="space-x-6">
+      <div className="space-x-6 latofont">
         <Link href="/" className="nav-link">
           Home
         </Link>
